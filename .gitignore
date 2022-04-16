@@ -1,0 +1,4 @@
+**/glew-2.1.0-win32/**
+.vscode
+**.exe
+*.zip
